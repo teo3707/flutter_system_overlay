@@ -53,7 +53,13 @@ class _MyAppState extends State<MyApp> {
         floatingActionButton: FloatingActionButton(
           child: Icon(Icons.add),
           onPressed: () {
-            FlutterSystemOverlay.overlay();
+            FlutterSystemOverlay.overlay(
+              title: "let me go ",
+              body: "you should go",
+              ok: 'ok',
+              cancel: 'cancel',
+              primaryColor: Colors.red,
+            );
           },
         ),
       ),
