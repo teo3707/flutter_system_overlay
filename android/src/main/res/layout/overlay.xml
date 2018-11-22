@@ -56,4 +56,5 @@
             android:paddingTop="4dp"
             android:paddingBottom="4dp"/>
     </LinearLayout>
+
 </LinearLayout>
