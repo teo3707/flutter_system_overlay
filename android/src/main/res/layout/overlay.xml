@@ -27,11 +27,6 @@
         android:textColor="@android:color/darker_gray"
         android:paddingBottom="8dp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="ddddddddddddddddddddddddddddddddddddddddddddddd"/>
-
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
